@@ -1,0 +1,37 @@
+body{
+    background-color: #000000;
+}
+
+
+h1  {
+    color: #000000;
+
+}
+
+
+p{
+    text-indent: 50px;
+    color: #ffffff;
+    text-align: left;
+    font-weight: 10;
+    font-size: large;
+    font-style: normal;
+}
+
+
+h2{
+    color: #000706;
+
+}
+
+#paragrafo-x {
+            color: rgb(255, 255, 255);
+        text-align: left;
+    font-weight: bold;
+font-size: 20pt;
+}
+
+#diferentes {
+    color: aqua;
+text-align: left;
+}
